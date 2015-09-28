@@ -3,10 +3,19 @@
     width: 100%;
     overflow-x: scroll;
     overflow-y: hidden;
+    align-content: center;
 }
 
-p{
+.text{
     width: 85000px;
     margin-top: 15%;
     vertical-align: middle;
+    font-size: 2em;
+}
+
+
+@media screen and (min-width: 480px) {
+    body {
+        background-color: lightgreen;
+    }
 }
