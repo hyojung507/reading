@@ -1,6 +1,3 @@
-body {
-        background-color: gray;
-    }
 
 .wrap{
     height: 100%;
@@ -21,31 +18,6 @@ font-family: Helvetica, Arial, Sans-Serif;
 
 
 
-@media screen and (min-width: 660px) {
-    body {
-        background-color: lightgreen;
-    }
-    
-    .wrap{
-    height: 100%;
-    width: 100%;
-    align-content: center;
-}
-
-.text{
-    width: inherit;
-    vertical-align: middle;
-font-family: Helvetica, Arial, Sans-Serif;
-    font-size: 4em;
-    
-    
-    
-    
-}
-    
-    
-    
-}
 
 
 
