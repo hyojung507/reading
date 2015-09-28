@@ -1,3 +1,15 @@
+@font-face {
+    font-family: 'maison_neuebook';
+    src: url('maisonneuebook-webfont.eot');
+    src: url('maisonneuebook-webfont.eot?#iefix') format('embedded-opentype'),
+         url('maisonneuebook-webfont.woff2') format('woff2'),
+         url('maisonneuebook-webfont.woff') format('woff'),
+         url('maisonneuebook-webfont.ttf') format('truetype'),
+         url('maisonneuebook-webfont.svg#maison_neuebook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
 
 .wrap{
     height: 100%;
@@ -11,8 +23,8 @@
     width: 405000px;
     margin-top: 24%;
     vertical-align: middle;
-font-family: Helvetica, Arial, Sans-Serif;
-    font-size: 4em;
+font-family: maison_neuebook;
+    font-size: 3em;
 }
 
 
