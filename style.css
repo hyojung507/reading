@@ -14,3 +14,11 @@ font-family: Helvetica, Arial, Sans-Serif;
     font-size: 4em;
 }
 
+
+
+
+@media screen and (min-width: 880px) {
+    body {
+        background-color: lightgreen;
+    }
+}
