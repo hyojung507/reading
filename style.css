@@ -7,15 +7,9 @@
 }
 
 .text{
-    width: 85000px;
-    margin-top: 15%;
+    width: 405000px;
+    margin-top: 25%;
     vertical-align: middle;
-    font-size: 2em;
+    font-size: 4em;
 }
 
-
-@media screen and (min-width: 480px) {
-    body {
-        background-color: lightgreen;
-    }
-}
